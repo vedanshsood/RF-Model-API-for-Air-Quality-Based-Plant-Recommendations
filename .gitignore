@@ -1,7 +1,5 @@
 # Ignore specific files
 secret.txt
-model.pkl
-mlb.pkl
 
 # Ignore directories
 __pycache__/
