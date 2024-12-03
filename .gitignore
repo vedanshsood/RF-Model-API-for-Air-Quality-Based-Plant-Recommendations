@@ -1,0 +1,17 @@
+# Ignore specific files
+secret.txt
+model.pkl
+mlb.pkl
+
+# Ignore directories
+__pycache__/
+logs/
+
+# Ignore all `.log` files
+*.log
+
+# Ignore environment and build files
+.env
+venv/
+node_modules/
+dist/
